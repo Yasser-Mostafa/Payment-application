@@ -1,0 +1,6 @@
+﻿  app.c
+D:\Courses\udacity\FWD Embedded\Professional Track\Project\Project1\Payment Application\Payment Application\Application\app.c(87,76): warning C4047: 'function': 'ST_accountsDB_t *' differs in levels of indirection from 'ST_accountsDB_t (*)[255]'
+D:\Courses\udacity\FWD Embedded\Professional Track\Project\Project1\Payment Application\Payment Application\Application\app.c(87,59): warning C4024: 'recieveTransactionData': different types for formal and actual parameter 4
+D:\Courses\udacity\FWD Embedded\Professional Track\Project\Project1\Payment Application\Payment Application\Application\app.c(112,34): warning C4047: 'function': 'ST_accountsDB_t *' differs in levels of indirection from 'ST_accountsDB_t (*)[255]'
+D:\Courses\udacity\FWD Embedded\Professional Track\Project\Project1\Payment Application\Payment Application\Application\app.c(112,17): warning C4024: 'viewDataBase': different types for formal and actual parameter 1
+  Payment Application.vcxproj -> D:\Courses\udacity\FWD Embedded\Professional Track\Project\Project1\Payment Application\x64\Debug\Payment Application.exe
